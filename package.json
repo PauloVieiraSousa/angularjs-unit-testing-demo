@@ -1,0 +1,19 @@
+{
+  "name": "Testing",
+  "version": "0.0.1",
+  "description": "angularjs unit testing with jasmine and karma reference demo project",
+  "main": "karma.conf.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nir Kaufman <nirkaufman@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "karma": "^0.12.14",
+    "karma-jasmine": "^0.1.5",
+    "karma-chrome-launcher": "^0.1.3"
+  }
+}
